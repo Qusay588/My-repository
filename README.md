@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Qusay mohammed
 ======================================================================================================================================
 
-data anayst
+Data analyst
 -----------
 
 I'm an aspiring data analyst with a deep curiosity about how numbers tell stories, reveal patterns, and help drive smarter decisions. My journey into the world of data began with a simple fascination: how can raw information, when properly organized and analyzed, unlock meaningful insights that influence real-world outcomes? That question has fueled my passion and continues to guide my path forward
